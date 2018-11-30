@@ -1,0 +1,7 @@
+{
+  "parent": "block/rail_curved",
+  "textures": {
+    "rail": "block/rail_corner",
+    "tie": "block/rail_normal_tie_turned"
+  }
+}
